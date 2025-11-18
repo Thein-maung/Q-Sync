@@ -1,0 +1,15 @@
+{
+  "name": "Quantum AI Entanglement",
+  "short_name": "QuantumAI",
+  "description": "True quantum-entangled AI communication using quantum state synchronization",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6a11cb",
+  "theme_color": "#6a11cb",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["communication", "security", "utilities"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "prefer_related_applications": false
+}
