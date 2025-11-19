@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "quantum-ai-entanglement",
+  "name": "q-sync",
   "builds": [
     {
       "src": "package.json",
