@@ -1,15 +1,15 @@
 {
-  "name": "quantum-ai-entanglement",
-  "version": "2.0.0",
-  "description": "True quantum-entangled AI communication",
+  "name": "q-sync",
+  "version": "1.0.0",
+  "description": "Quantum-inspired secure messaging PWA",
   "main": "index.html",
   "scripts": {
     "dev": "python3 -m http.server 8000",
-    "build": "echo 'No build step' && mkdir -p public && cp -r *.html *.js *.css *.json public/ 2>/dev/null || true",
+    "build": "echo 'No build step needed for static PWA'",
     "start": "python3 -m http.server 8000"
   },
-  "keywords": ["quantum", "ai", "entanglement", "pwa"],
-  "author": "Quantum AI Research Team",
+  "keywords": ["quantum", "encryption", "pwa", "security"],
+  "author": "Thein Maung",
   "license": "MIT",
   "repository": {
     "type": "git",
